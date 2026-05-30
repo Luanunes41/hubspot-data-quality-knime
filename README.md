@@ -2,6 +2,8 @@
 
 Pipeline de tratamento e padronização de dados para importação de contatos no HubSpot utilizando KNIME.
 
+<img width="1270" height="413" alt="image" src="https://github.com/user-attachments/assets/80bd4f25-4fdf-45f0-86a5-8054e2b5c744" />
+
 ## Objetivo
 
 Este projeto demonstra a construção de um fluxo de Data Quality voltado para CRM e RevOps, preparando uma base de contatos para importação segura no HubSpot.
