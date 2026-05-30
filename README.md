@@ -2,7 +2,7 @@
 
 Pipeline de tratamento e padronização de dados para importação de contatos no HubSpot utilizando KNIME.
 
-<img width="1270" height="413" alt="image" src="https://github.com/user-attachments/assets/80bd4f25-4fdf-45f0-86a5-8054e2b5c744" />
+<img width="1200" height="386" alt="image" src="https://github.com/user-attachments/assets/24443261-3452-48ba-875c-1dd6c5d15222" />
 
 ## Objetivo
 
